@@ -8,6 +8,6 @@ namespace BankTransactions.Models
         {
             
         }
-        DbSet<Transaction> Transactions { get; set; }
+       public DbSet<Transaction> Transactions { get; set; }
     }
 }
