@@ -2,6 +2,36 @@
 
 BankMemberManager
 
+## Projectbeschrijving
+
+BankMemberManager is een applicatie ontwikkeld met ASP.NET Core MVC en EF Core. Het biedt functionaliteit voor het beheer van bankleden, inclusief het toevoegen, weergeven, bijwerken en verwijderen van transactiegegevens. Met deze applicatie kunnen gebruikers efficiënt financiële transacties en ledenbeheer uitvoeren.
+
+## Installatie-instructies
+
+Volg deze stappen om de BankMemberManager-applicatie op je lokale machine te installeren:
+
+1. Zorg ervoor dat je de juiste versie van .NET Core SDK hebt geïnstalleerd.
+2. Clone dit repository naar je lokale machine.
+3. Navigeer naar de hoofdmap van de applicatie in de terminal.
+4. Voer `dotnet restore` uit om de benodigde pakketten te herstellen.
+5. Configureer je databaseverbinding in het `appsettings.json`-bestand.
+6. Voer `dotnet ef database update` uit om de database te migreren.
+7. Start de applicatie met het commando `dotnet run`.
+
+## Gebruiksaanwijzing
+
+Volg deze stappen om de BankMemberManager-applicatie te gebruiken:
+
+1. Open je webbrowser en navigeer naar `http://localhost:5000`.
+2. Bekijk de lijst met transactiegegevens op de startpagina.
+3. Klik op "Create New" om nieuwe transactiegegevens toe te voegen.
+4. Vul de vereiste gegevens in het formulier in en klik op "Submit" om een nieuwe transactie toe te voegen.
+5. Klik op "View All" om alle bestaande transacties te bekijken.
+6. Voor het bijwerken of verwijderen van een transactie, klik op de respectieve knoppen naast de transactie.
+
+Dit zijn de basisstappen om de BankMemberManager-applicatie te installeren en te gebruiken. Pas de instructies aan op basis van je omgeving en behoeften.
+
+
 ## Stappen voor het Ontwikkelen van een Bankledenbeheer CRUD Toepassing met ASP.NET Core MVC en EF Core
 
 1. Maak een MVC-project
