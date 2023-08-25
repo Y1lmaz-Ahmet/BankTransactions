@@ -50,7 +50,7 @@ Dit zijn de basisstappen om de BankMemberManager-applicatie te installeren en te
 
 ## Voorbeelden
 
-![Voorbeeldafbeelding 1](../wwwroot/Images/DataScherm-Bankgegevens.png)
+![Voorbeeldafbeelding 1](wwwroot/Images/DataScherm-Bankgegevens.png)
 ### Tabel voor Weergave van Transactiegegevens
 
 Deze tabel toont transactiegegevens van bankleden binnen de applicatie. Hier zijn enkele van de gegevensvelden die worden weergegeven:
@@ -68,7 +68,7 @@ De tabel bevat ook actieknoppen voor elke transactie:
 De tabel en de bijbehorende knoppen helpen gebruikers bij het beheren van transactiegegevens binnen de app.
 
 
-![Voorbeeldafbeelding 2](~/Images/Form-Transaction-Inputs.png)
+![Voorbeeldafbeelding 2](wwwroot/Images/Form-Transaction-Inputs.png)
 ### Formulier voor aanmaak nieuwe leden
  
 - Rekeningnummer
@@ -85,7 +85,7 @@ Dit gedeelte van het formulier biedt twee knoppen voor acties:
 
 - **View All**: Deze knop geeft gebruikers de mogelijkheid om alle bestaande transacties te bekijken. Wanneer gebruikers op deze knop klikken, worden ze naar een overzichtspagina geleid waar ze alle transacties kunnen zien.
 
-![Voorbeeldafbeelding 3](~/Images/VerwijderScherm-Bankgegevens.png)
+![Voorbeeldafbeelding 3](wwwroot/Images/VerwijderScherm-Bankgegevens.png)
 ### Details van Transactiegegevens en Verwijderformulier
 
 In deze sectie worden details van transactiegegevens weergegeven in een gestructureerde lijst met definitielijsten (`<dl>`). De weergegeven gegevens omvatten:
