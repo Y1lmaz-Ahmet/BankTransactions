@@ -50,7 +50,7 @@ Dit zijn de basisstappen om de BankMemberManager-applicatie te installeren en te
 
 ## Voorbeelden
 
-![Voorbeeldafbeelding 1](~/Images/DataScherm-Bankgegevens.png)
+![Voorbeeldafbeelding 1](../wwwroot/Images/DataScherm-Bankgegevens.png)
 ### Tabel voor Weergave van Transactiegegevens
 
 Deze tabel toont transactiegegevens van bankleden binnen de applicatie. Hier zijn enkele van de gegevensvelden die worden weergegeven:
