@@ -25,3 +25,12 @@ body {
 .form-group label {
     color: gray
 }
+
+.card-img-top-transitioner {
+    transition: transform 0.3s ease;
+}
+
+.card-img-top-transitioner:hover {
+    transform: scale(1.1); 
+    cursor: auto; 
+}
